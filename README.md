@@ -1,6 +1,5 @@
 # yoga-master
-![Menu Icon](https://user-images.githubusercontent.com/96243820/146528708-527327f0-c03c-4882-beed-db1d4289dbc0.jpeg)
-![Splash Screen](https://user-images.githubusercontent.com/96243820/146528194-19e5f05a-66f1-41fe-80cb-a33069da3413.jpeg)
+![Menu Icon](https://user-images.githubusercontent.com/96243820/146528708-527327f0-c03c-4882-beed-db1d4289dbc0.jpeg)![Splash Screen](https://user-images.githubusercontent.com/96243820/146528194-19e5f05a-66f1-41fe-80cb-a33069da3413.jpeg)
 ![Home](https://user-images.githubusercontent.com/96243820/146528199-348b4a25-7111-467f-bed7-2dab22f2b2ab.jpeg)
 ![Begineer](https://user-images.githubusercontent.com/96243820/146528205-99c71d0b-8b48-401b-91b0-8fa1578c1143.jpeg)
 ![Exercises-1](https://user-images.githubusercontent.com/96243820/146528208-dd7fa637-4546-4c99-a953-30ca3e5e4d8a.jpeg)
