@@ -1,1 +1,12 @@
 # yoga-master
+![Splash Screen](https://user-images.githubusercontent.com/96243820/146528194-19e5f05a-66f1-41fe-80cb-a33069da3413.jpeg)
+![Menu Icon](https://user-images.githubusercontent.com/96243820/146528708-527327f0-c03c-4882-beed-db1d4289dbc0.jpeg)
+![Home](https://user-images.githubusercontent.com/96243820/146528199-348b4a25-7111-467f-bed7-2dab22f2b2ab.jpeg)
+![Begineer](https://user-images.githubusercontent.com/96243820/146528205-99c71d0b-8b48-401b-91b0-8fa1578c1143.jpeg)
+![Exercises-1](https://user-images.githubusercontent.com/96243820/146528208-dd7fa637-4546-4c99-a953-30ca3e5e4d8a.jpeg)
+![Exercises-2](https://user-images.githubusercontent.com/96243820/146528211-404d0292-b6fc-4641-b2e7-021260cd4d2c.jpeg)
+![Dynamic](https://user-images.githubusercontent.com/96243820/146528217-94246f38-7753-41b5-ba4f-48ab916bd162.jpeg)
+![Balance](https://user-images.githubusercontent.com/96243820/146528220-e813746d-3c7d-4522-9c44-7202a7f02d89.jpeg)
+![Morning](https://user-images.githubusercontent.com/96243820/146528225-9963e1fc-cd0e-4218-817d-6f9434b70375.jpeg)
+![Core](https://user-images.githubusercontent.com/96243820/146528227-b5998509-ca7e-447a-b22c-3f33afa230b2.jpeg)
+![Sun](https://user-images.githubusercontent.com/96243820/146528232-3aac5261-8aa9-4e87-8cc1-609ddd955ca7.jpeg)
